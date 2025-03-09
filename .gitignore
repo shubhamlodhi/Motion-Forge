@@ -54,6 +54,4 @@ Thumbs.db
 .env.test.local
 .env.production.local
 
-# Adobe
-AE-Presets/
-(Adobe)
+
